@@ -1,0 +1,183 @@
+{"name": ["整租 | 客厅挑空的大独栋，改建合理的阳光房，家私齐全随时即可"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tE4sATAo7dAo7m26tKl4kxtcgT9WSjAhmNUc40B_Jht9LMDywPCEORxXhL2WHrTnZuQOkkR3e1KxczFiHUSeI88GbQFBJxIZMOWqkseFL67-upeB-UK1L3QXJku-zww3ATaipzx1OVdixyukPmMkDu62eFWvNPmTtZQMDqL8W25VyOL46dYK_qEFT-1iM0Ga7-ciSj4z9T3pO5xoYsmNasrqoj08mTC5as&local=1&pubid=28959097&apptype=0&psid=189445179199385531543395298&entinfo=33351929325497_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["25000"], "roomType": ["5室3厅4卫   228 平  精装修"]}
+{"name": ["单间 | 石佛营 朝阳过户大厅附近紫萝园 朝南主卧带独立卫浴"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfo0XkVZkAg2m9VJ6L0ZEehZMf-5NvxKrSqz9m3Ko9V5DYoSb6VX2-IAqTN2-lWwygXG2zuzNrB7Wvq7pcP3cAi1WbQFBJxIZMOWqkseFL67-t3RaKjcjYRkKJzaJHGEFfnQ3k-DO2nVAmgKQ0eYVkaR_GGRNvaJU8ENnW-Mw48rHUl5A6UFjXZ2KtzPhO3qjriASnSS6YOGad3RkQQnWt-7A&local=1&pubid=28772009&apptype=0&psid=189445179199385531543395298&entinfo=33397812477877_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["3000"], "roomType": ["3室2厅2卫   30 平  精装修"]}
+{"name": ["单间 | 精装修 天通苑本一区 押一付一 采光贼好 包宽带"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfob4qTt8nEQFJxS9IBgXviZcf-5NvxKrSqs33lIOEuVsdmfPcoUVHxoqTN2-lWwygXGAgv3krDoLxuLoFHzcEDgGbQFBJxIZMOWqkseFL67-t3RaKjcjYRkLMsgjg-7bpxOvtn3lwBGfugKQ0eYVkaR_GGRNvaJU8EuJtTRxOPplcl5A6UFjXZ2KtzPhO3qjriASnSS6YOGad3RkQQnWt-7A&local=1&pubid=27608586&apptype=0&psid=189445179199385531543395298&entinfo=33002058804150_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["2600"], "roomType": ["3室1厅1卫   32 平  精装修"]}
+{"name": ["单间 | 年底 朝阳庵社区 随时看房 绝不涨租 0中介费"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfosvOO8BOolpmNyVknSwipUsf-5NvxKrSq3rbk08vcZHLfuhbnTucx0O2z8ihUE6Yh2xE5q5fpni0fbwbqPJ8OVmbQFBJxIZMOWqkseFL67-t3RaKjcjYRkMytN5oE5H_1QAeqWJ5iEm6gKQ0eYVkaR_GGRNvaJU8EMrz6sBY16gMl5A6UFjXZ2KtzPhO3qjriASnSS6YOGad3RkQQnWt-7A&local=1&pubid=28391674&apptype=0&psid=189445179199385531543395298&entinfo=33330001057101_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["3380"], "roomType": ["3室1厅1卫   27 平  精装修"]}
+{"name": ["单间 | 龙泽 西二旗上地软件园 蓝天嘉园精装朝南次卧出租 真"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoPFgSH9jgHkpcW_TgmJUQM8f-5NvxKrSqquPC4oZ-wLzFrUnug4-vgIQQ7WdQBbOrGAgv3krDoLy6_Ka-kRM3l2bQFBJxIZMOWqkseFL67-t3RaKjcjYRkJsfXwXJkauLsv-6OtYi-j6gKQ0eYVkaR_GGRNvaJU8ErQ6dJS-wg6Il5A6UFjXZ2KtzPhO3qjriASnSS6YOGad3RkQQnWt-7A&local=1&pubid=28979169&apptype=0&psid=189445179199385531543395298&entinfo=33400104441293_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["2500"], "roomType": ["3室2厅2卫   28 平  精装修"]}
+{"name": ["单间 | 金蝉北里 包宽带保洁 押一付一 随时看房"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoO_yiMB0kvclmKiwwKLFuJ8f-5NvxKrSqs33lIOEuVsdrEorySJLilYQQ7WdQBbOrhDg6wOUAifR2soj8ifH95mbQFBJxIZMOWqkseFL67-t3RaKjcjYRkKlkPBK0kcBghZQUej7vmwagKQ0eYVkaR_GGRNvaJU8Ezk8J0PCoQqQl5A6UFjXZ2KtzPhO3qjriASnSS6YOGac87dhSBkFbkg&local=1&pubid=27653132&apptype=0&psid=189445179199385531543395298&entinfo=33023323580079_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["2211"], "roomType": ["3室1厅1卫   23 平  精装修"]}
+{"name": ["整租 | 口腔医院 民族大学东门新上三居室 南北通透 全明格局"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEWl8GyM2KD_HgedX_r_XZ1MgT9WSjAhmN1yPDPonMh6K_LfLRbNSpVHhL2WHrTnZunauwD_iiZyWLpHwm0RlWlocAMCALJ1RVRlZCfn64xHCLIrtUgl9F42UK4TNoFCGxe9Bvvv4RZjtIJ057leLrdqDMybbOabIF5m2gBVG5ApiCCTzo_2_RRfj72RQY6T83JRumv1XWreAwBnTQiZS95A&local=1&pubid=28986572&apptype=0&psid=189445179199385531543395298&entinfo=33417908590785_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["9000"], "roomType": ["3室1厅1卫   80 平  精装修"]}
+{"name": ["单间 | 太平桥西里小区 蛋壳公寓直租 拒绝黑中介 押一付一"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoC7O5-EWfglscEQDv-f1hxMf-5NvxKrSqOS0GiY1Ose7qZmlVWv4RDKTN2-lWwygX7fh1Pct423m6_Ka-kRM3l2bQFBJxIZMOWqkseFL67-t3RaKjcjYRkMydrR1FmOLTuI0LIkCMnDCgKQ0eYVkaR_GGRNvaJU8Ecto3-bazaycl5A6UFjXZ2KtzPhO3qjriASnSS6YOGad3RkQQnWt-7A&local=1&pubid=28415215&apptype=0&psid=189445179199385531543395298&entinfo=33333927353414_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["2790"], "roomType": ["3室1厅1卫   23 平  精装修"]}
+{"name": ["单间 | 月付 建欣苑三里北区 集中供暖 包宽带维修 0中介"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoVJGNFU1jPuZUjQfyXWu0bsf-5NvxKrSqqoT6YJcfczQ5mOY4zYFDn6TN2-lWwygX7fh1Pct423ljmmBUKMqI7mbQFBJxIZMOWqkseFL67-t3RaKjcjYRkB2eE3pLZjMcGWJ-GKqi-EegKQ0eYVkaR_GGRNvaJU8Eh1QM_tbkoIYl5A6UFjXZ2KtzPhO3qjriASnSS6YOGad3RkQQnWt-7A&local=1&pubid=28400523&apptype=0&psid=189445179199385531543395298&entinfo=33323265286716_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["3400"], "roomType": ["3室1厅1卫   30 平  精装修"]}
+{"name": ["单间 | 好房 团结湖中路北小区 月付 0中介 集中供暖 包维"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoNoMQ9qKJtgULi6F5t2EcM8f-5NvxKrSq6vUhsEjL75f69vSySodhJIQQ7WdQBbOrfrakUwR4CmDq7pcP3cAi1WbQFBJxIZMOWqkseFL67-t3RaKjcjYRkFVqdmIBM37cpk1oFOYu6OigKQ0eYVkaR_GGRNvaJU8EUQ2tD4K8ijkl5A6UFjXZ2KtzPhO3qjriASnSS6YOGad3RkQQnWt-7A&local=1&pubid=28983417&apptype=0&psid=189445179199385531543395298&entinfo=33344438562350_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["3094"], "roomType": ["3室1厅1卫   25 平  精装修"]}
+{"name": ["整租 | 13号线柳芳站 左家庄 柳芳北里 随时看房 全新家电"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEme1rbgPKfXocnYry0xphrcgT9WSjAhmNLglfayUemhA2oMdFbenVxXhL2WHrTnZu5FsZeVodUtyLpHwm0RlWlocAMCALJ1RVRlZCfn64xHCLIrtUgl9F47HridXvgWh_Q7XM4TVZVOBIJ057leLrdqDMybbOabIF4qz3_IonBMGCCTzo_2_RRfj72RQY6T83JRumv1XWreAwBnTQiZS95A&local=1&pubid=28963083&apptype=0&psid=189445179199385531543395298&entinfo=33377624811714_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["6000"], "roomType": ["2室1厅1卫   70 平  精装修"]}
+{"name": ["单间 | 南三环 四方景园 精装全齐 有钥匙 真图 实价 南向"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfosXMss0WYVQj6W6dXA3xPxMf-5NvxKrSqBtLlmOI2bR3J_iwYCfW59vcGebxS_RY4bKncyf0V7dTJd6HOrOZj32bQFBJxIZMOWqkseFL67-t3RaKjcjYRkKxwlE77gnFTHYVUP1H7aBKgKQ0eYVkaR_GGRNvaJU8EiyMNwnIe2qIl5A6UFjXZ2KtzPhO3qjriASnSS6YOGad3RkQQnWt-7A&local=1&pubid=28679150&apptype=0&psid=189445179199385531543395298&entinfo=33378425431355_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["2400"], "roomType": ["2室1厅1卫   25 平  精装修"]}
+{"name": ["单间 | 上地南路6号 主卧带阳台 超大空间 采光好 可月付"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfogTiXmI4TkBYnnmW3YlIi5sf-5NvxKrSqnzREwZmzmQ84_JR0h3kUmoQQ7WdQBbOreIODtcNqHH92soj8ifH95mbQFBJxIZMOWqkseFL67-t3RaKjcjYRkOy60UXorddtnxs6vDNK-KmgKQ0eYVkaR_GGRNvaJU8EwljnSon7utsl5A6UFjXZ2KtzPhO3qjriASnSS6YOGad3RkQQnWt-7A&local=1&pubid=28589050&apptype=0&psid=189445179199385531543395298&entinfo=33332272512943_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["3300"], "roomType": ["2室1厅1卫   25 平  精装修"]}
+{"name": ["单间 | 好房 远洋公馆 月付 0中介 集中供暖 包维修"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfopmxB2ZqSFkQ49gMJKBya48f-5NvxKrSqOS0GiY1Ose6kiuGoo0sxVIQQ7WdQBbOrDSb73M5BCjAfbwbqPJ8OVmbQFBJxIZMOWqkseFL67-t3RaKjcjYRkGxR5KY4WyBDgGIFMZXoTW-gKQ0eYVkaR_GGRNvaJU8EBc14dltRTaUl5A6UFjXZ2KtzPhO3qjriASnSS6YOGac87dhSBkFbkg&local=1&pubid=28401564&apptype=0&psid=189445179199385531543395298&entinfo=33330189109822_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["2866"], "roomType": ["3室1厅1卫   33 平  精装修"]}
+{"name": ["整租 | 超！！首开常青藤四期精装3居 家电齐全 只租8500"], "url": ["http://bj.58.com/zufang/33353405945407x.shtml"], "price": ["8500"], "roomType": ["3室1厅1卫   96 平  精装修"]}
+{"name": ["单间 | 可月付 闵庄路 香山 朝南主卧带阳台 三家合住无隔断"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfob1wm9se3vyd22cg0DmYIWMf-5NvxKrSq132oaKW_iM8X_MqGTc0CJP4gPFQAyZDPk9Xj7fJK0IeL5EgZP_B2z2bQFBJxIZMOWqkseFL67-t3RaKjcjYRkMX-AnHJ1ad2OlI-9n74ocGgKQ0eYVkaR_GGRNvaJU8E1MVxe3rXjmEl5A6UFjXZ2KtzPhO3qjriASnSS6YOGac87dhSBkFbkg&local=1&pubid=28953534&apptype=0&psid=189445179199385531543395298&entinfo=33429495871040_0&cookie=|||&fzbref=0&key=&params=busitime^desc"], "price": ["2000"], "roomType": ["3室1厅1卫   25 平  精装修"]}
+{"name": ["整租 | 16号线 马连洼 西山华府 润千秋 家具家电齐全"], "url": ["http://bj.58.com/zufang/33423359809726x.shtml"], "price": ["4800"], "roomType": ["1室1厅1卫   42 平  精装修"]}
+{"name": ["整租 | 个人急租.月付大地文苑.精装一居55平.图片实拍.直"], "url": ["http://bj.58.com/zufang/33410663557968x.shtml"], "price": ["4200"], "roomType": ["1室0厅1卫   55 平  精装修"]}
+{"name": ["整租 | 五道口，唐宁ONE，红杉国际公寓，文津国际公寓，业主"], "url": ["http://bj.58.com/zufang/33431018382148x.shtml"], "price": ["7000"], "roomType": ["1室1厅1卫   60 平  精装修"]}
+{"name": ["整租 | 个人直租 ZOME己美蒲黄榆地铁站店 5号线14号线"], "url": ["http://bj.58.com/zufang/33048954878379x.shtml"], "price": ["2080"], "roomType": ["1室1厅1卫   25 平  精装修"]}
+{"name": ["整租 | 德贤路 世界之花假日广场 精装大开间 有办公地址 随"], "url": ["http://bj.58.com/zufang/33362789541419x.shtml"], "price": ["3300"], "roomType": ["1室1厅1卫   55 平  精装修"]}
+{"name": ["整租 | 新上 紧邻新光天地万达沃尔玛佳兆业华贸蓝堡金地大望路"], "url": ["http://bj.58.com/zufang/33384780018748x.shtml"], "price": ["4300"], "roomType": ["1室1厅1卫   50 平  精装修"]}
+{"name": ["整租 | 珠江四季悦城 京东班车 精装修三居室仅租5000看房"], "url": ["http://bj.58.com/zufang/33278715184201x.shtml"], "price": ["5000"], "roomType": ["3室1厅1卫   88 平  精装修"]}
+{"name": ["整租 | 房东直租 北京西站 太平桥 六里桥 精装婚房两居南北"], "url": ["http://bj.58.com/zufang/33395929142842x.shtml"], "price": ["5000"], "roomType": ["2室1厅1卫   65 平  精装修"]}
+{"name": ["单间 | 十里堡地铁，晨光家园东岸精装朝南主卧室，精装修，全女"], "url": ["http://bj.58.com/hezu/33318937845565x.shtml"], "price": ["2600"], "roomType": ["3室2厅2卫   29 平  精装修"]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 玉泉路地铁十一学校复兴路40号院铁建大院精装两居室看"], "url": ["http://bj.58.com/zufang/32698901761207x.shtml"], "price": ["5500"], "roomType": ["2室1厅1卫   75 平  豪华装修"]}
+{"name": ["整租 | 周庄嘉园7号院 2室1厅1卫"], "url": ["http://bj.58.com/zufang/32250794083533x.shtml"], "price": ["6400"], "roomType": ["2室1厅1卫   93 平  简单装修"]}
+{"name": ["整租 | 出租自由筑 70平精装一居室 家具齐全 日照充足 邻"], "url": ["http://bj.58.com/zufang/33417894395086x.shtml"], "price": ["3100"], "roomType": ["1室1厅1卫   70 平  豪华装修"]}
+{"name": ["整租 | 中关村海淀黄庄小区邻地铁精装温馨干净家具家电齐拎包入"], "url": ["http://bj.58.com/zufang/33420177539387x.shtml"], "price": ["6700"], "roomType": ["1室1厅1卫   40 平  精装修"]}
+{"name": ["整租 | 融泽嘉园 全南向两居室 带电梯 家具家电齐全 随时可"], "url": ["http://bj.58.com/zufang/33330193309385x.shtml"], "price": ["6000"], "roomType": ["2室1厅1卫   82 平  精装修"]}
+{"name": ["整租 | 劲松地铁口 劲松三区 精装修 可押一付一 随时看房"], "url": ["http://bj.58.com/zufang/32821094517174x.shtml"], "price": ["6300"], "roomType": ["2室1厅1卫   70 平  精装修"]}
+{"name": ["整租 | 京旺家园两居室家具家电齐全拎包入住临近蟹岛度假村地坛"], "url": ["http://bj.58.com/zufang/33407646104511x.shtml"], "price": ["5300"], "roomType": ["2室1厅1卫   80 平  精装修"]}
+{"name": ["单间 | 龙湖艳澜新宸 4室2厅2卫 男女不限"], "url": ["http://bj.58.com/hezu/33354203959363x.shtml"], "price": ["1200"], "roomType": ["3室2厅2卫   20 平  "]}
+{"name": ["整租 | 西北旺，颐和山庄精装两居，家具家电齐全，无中介，拎包"], "url": ["http://bj.58.com/zufang/33430104557609x.shtml"], "price": ["4400"], "roomType": ["2室1厅1卫   65 平  精装修"]}
+{"name": ["单间 | 西直门 枫蓝国际 铁路危改 精装石墙单间 干净整洁"], "url": ["http://bj.58.com/hezu/33407648991410x.shtml"], "price": ["1600"], "roomType": ["3室1厅1卫   16 平  精装修"]}
+{"name": ["整租 | 东四环地铁四惠东站 惠生园 婚房两居 出租,有钥匙"], "url": ["http://bj.58.com/zufang/33396635938503x.shtml"], "price": ["7500"], "roomType": ["2室1厅1卫   90 平  精装修"]}
+{"name": ["整租 | 碧水云天颐园 3室 13000元"], "url": ["http://bj.58.com/zufang/33429359193779x.shtml"], "price": ["13000"], "roomType": ["3室2厅2卫   116 平  精装修"]}
+{"name": ["整租 | 马连道 湾子地铁 家乐福附近 信和嘉园 第三区一居室"], "url": ["http://bj.58.com/zufang/33410134992687x.shtml"], "price": ["4300"], "roomType": ["1室1厅1卫   33 平  精装修"]}
+{"name": ["单间 | 团结湖中路北二条 3室1厅1卫 限男生"], "url": ["http://bj.58.com/hezu/33077792649003x.shtml"], "price": ["2400"], "roomType": ["3室1厅1卫   80 平  "]}
+{"name": ["整租 | 国风北京 精致一居 随时入住 高端选择 您温暖的新家"], "url": ["http://bj.58.com/zufang/33412042471366x.shtml"], "price": ["8600"], "roomType": ["1室1厅1卫   85 平  精装修"]}
+{"name": ["单间 | 紧邻7号线 广安门内报国寺1号院 2室1厅 主卧 朝"], "url": ["http://bj.58.com/hezu/33387081258281x.shtml"], "price": ["2500"], "roomType": ["2室1厅1卫   15 平  "]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 地铁附近 精装 大三居 五路通 南北通透 家庭暴力"], "url": ["http://bj.58.com/zufang/33268349763267x.shtml"], "price": ["9400"], "roomType": ["3室1厅1卫   91 平  精装修"]}
+{"name": ["整租 | 为您优选：福成精装修2居室，随时看房，拎包入住！！"], "url": ["http://bj.58.com/zufang/33397204444994x.shtml"], "price": ["1600"], "roomType": ["2室1厅1卫   86 平  精装修"]}
+{"name": ["整租 | 怡然家园 包宽带保洁 押一付一 随时看房"], "url": ["http://bj.58.com/zufang/33355347820356x.shtml"], "price": ["4403"], "roomType": ["1室1厅1卫   38 平  精装修"]}
+{"name": ["单间 | 精品温馨两局室，特别干净。"], "url": ["http://bj.58.com/hezu/33418557091381x.shtml"], "price": ["3000"], "roomType": ["2室1厅1卫   30 平  "]}
+{"name": ["单间 | 城建畅悦居 豪华大主卧 TBD云集 宏福大厦 修正药"], "url": ["http://bj.58.com/hezu/33429956839468x.shtml"], "price": ["1800"], "roomType": ["3室1厅1卫   23 平  精装修"]}
+{"name": ["整租 | 七号线达官营格调欧园红莲马连道第三区康宁居精装两居室"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEC92OPgjE6AuPSSZVL_F93sgT9WSjAhmN5dkISaVOfSfSQMXiCkLgl3hL2WHrTnZuya1vl6wUSuGLpHwm0RlWlocAMCALJ1RVRlZCfn64xHCLIrtUgl9F4y04aJUl5d5xQabr7swDAmJIJ057leLrdqDMybbOabIFKZQM5rXzptmCCTzo_2_RRfj72RQY6T83JRumv1XWreCsSJntL4Mn4A&local=1&pubid=28651978&apptype=0&psid=180319072199385531791123676&entinfo=33373824095045_0&cookie=|||c5/njVqrh SGbwECA2KdAg==&fzbref=0&key=&params=busitime^desc"], "price": ["7000"], "roomType": ["2室1厅1卫   90 平  精装修"]}
+{"name": ["单间 | 国贸双井北漂一族温馨家园公寓"], "url": ["http://bj.58.com/hezu/32816586858310x.shtml"], "price": ["750"], "roomType": ["2室1厅1卫   127 平  "]}
+{"name": ["整租 | 温馨小开间配套齐全拎包入住抢抢抢"], "url": ["http://bj.58.com/zufang/33290074892985x.shtml"], "price": ["1900"], "roomType": ["1室0厅1卫   22 平  简单装修"]}
+{"name": ["单间 | 北辰福第北区 高速网络 智能门锁 年底甩租"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfozGd2Zyu0wSHPo2J7PFAcCsf-5NvxKrSqqoT6YJcfczR2Mt95g9foeaxNoCb90wzuG2zuzNrB7WuczjJDa95EumbQFBJxIZMOWqkseFL67-t3RaKjcjYRkCxW3iV56EFH9zXpE_zho72gKQ0eYVkaR_GGRNvaJU8EpjEcGK9F210l5A6UFjXZ2KtzPhO3qjriASnSS6YOGafwXAz7V4cvnw&local=1&pubid=28061553&apptype=0&psid=180319072199385531791123676&entinfo=33254657329978_0&cookie=|||c5/njVqrh SGbwECA2KdAg==&fzbref=0&key=&params=busitime^desc"], "price": ["3563"], "roomType": ["3室1厅1卫   26 平  精装修"]}
+{"name": ["单间 | 昌平天通苑狮子营家园 3室1厅 主卧"], "url": ["http://bj.58.com/hezu/33432425903688x.shtml"], "price": ["1990"], "roomType": ["3室1厅1卫   11 平  "]}
+{"name": ["整租 | 后现代城+大郊亭站+家具家电齐全+房子保养得也不错+"], "url": ["http://bj.58.com/zufang/33342884350661x.shtml"], "price": ["6000"], "roomType": ["1室1厅1卫   46 平  简单装修"]}
+{"name": ["单间 | 松榆西里潘家园松榆东里经济合租随时看房拎包入住"], "url": ["http://bj.58.com/hezu/33373880663625x.shtml"], "price": ["2600"], "roomType": ["1室1厅1卫   18 平  精装修"]}
+{"name": ["整租 | 福安公寓 1室1厅1卫"], "url": ["http://bj.58.com/zufang/33432420421177x.shtml"], "price": ["2400"], "roomType": ["1室1厅1卫   41 平  "]}
+{"name": ["整租 | 皂君东里 财经大学附近精装两居室出租"], "url": ["http://bj.58.com/zufang/33342873824073x.shtml"], "price": ["6800"], "roomType": ["2室1厅1卫   65 平  精装修"]}
+{"name": ["整租 | 林肯公园，东向推拉门一居室，家电家具齐全，看房随时，"], "url": ["http://bj.58.com/zufang/32975997290956x.shtml"], "price": ["4500"], "roomType": ["1室1厅1卫   45 平  精装修"]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 五棵松 万寿路西翠路 紫金长安小区 高层东向两居室出"], "url": ["http://bj.58.com/zufang/33389319480393x.shtml"], "price": ["11000"], "roomType": ["2室2厅1卫   99 平  精装修"]}
+{"name": ["整租 | 《押0付1 价格可谈》高端社区海棠湾温馨1居 浪漫小"], "url": ["http://bj.58.com/zufang/33389994854697x.shtml"], "price": ["3700"], "roomType": ["1室1厅1卫   45 平  精装修"]}
+{"name": ["整租 | 角门西 地铁4+10 冬季星空 有钥匙 看房方便"], "url": ["http://bj.58.com/zufang/33395897598276x.shtml"], "price": ["13000"], "roomType": ["4室2厅2卫   157 平  简单装修"]}
+{"name": ["单间 | 万博苑 3室1厅2卫 一个次卧限一位女生"], "url": ["http://bj.58.com/hezu/33191549186886x.shtml"], "price": ["2400"], "roomType": ["3室1厅2卫   18 平  "]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["单间 | 朝阳双井双花园南里一区 2室1厅 次卧 朝南 精装修"], "url": ["http://bj.58.com/hezu/33432366289841x.shtml"], "price": ["2600"], "roomType": ["2室1厅1卫   21 平  精装修"]}
+{"name": ["单间 | 自建公寓独户单间r/./|:l‘"], "url": ["http://bj.58.com/hezu/33231444175312x.shtml"], "price": ["800"], "roomType": ["1室1厅1卫   20 平  "]}
+{"name": ["整租 | 郭公庄幸福家园精装两居 价格很便宜 随时看房 近地铁"], "url": ["http://bj.58.com/zufang/33375982232751x.shtml"], "price": ["4200"], "roomType": ["2室1厅1卫   65 平  精装修"]}
+{"name": ["整租 | 0押金可月付 成寿寺 宋家庄 华芳园 中海城 正规两"], "url": ["http://bj.58.com/zufang/33362268580399x.shtml"], "price": ["5400"], "roomType": ["2室1厅1卫   84 平  精装修"]}
+{"name": ["单间 | 安园 3室1厅1卫 限一人居住包"], "url": ["http://bj.58.com/hezu/33210332390319x.shtml"], "price": ["2600"], "roomType": ["3室1厅1卫   15 平  "]}
+{"name": ["整租 | 双子座两居 全齐家具 刷卡入梯入户 阳光上东丽都水岸"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkeXUZDc90OcaCmJeAYtI2tEcLVsvY1VflBu0XqAgmMWR8gT9WSjAhmNoDU1rinbDz_rsDUrV8wMznhL2WHrTnZucEKVXz3ZqJOLpHwm0RlWlocAMCALJ1RVRlZCfn64xHCLIrtUgl9F46F2_pRP3g7u4jcuQNTrxqVIJ057leLrdqDMybbOabIF0cITsJlraNKCCTzo_2_RRfj72RQY6T83JRumv1XWreBmugeI_OV_rQ&local=1&pubid=28248892&apptype=0&psid=198817058199385533621112743&entinfo=33299509738699_0&cookie=|||c5/njVqrh SGbwECA2KdAg==&fzbref=0&key=&params=busitime^desc"], "price": ["16000"], "roomType": ["2室1厅2卫   120 平  精装修"]}
+{"name": ["整租 | 青年路地铁附近领包入住独门独户公寓"], "url": ["http://bj.58.com/zufang/33378265817133x.shtml"], "price": ["3200"], "roomType": ["1室1厅1卫   30 平  简单装修"]}
+{"name": ["整租 | 万科 新上 95平大两居 家具家电齐全 4800 看"], "url": ["http://bj.58.com/zufang/32380698737468x.shtml"], "price": ["4800"], "roomType": ["2室2厅1卫   95 平  精装修"]}
+{"name": ["整租 | 长宏公寓 1室1厅1卫"], "url": ["http://bj.58.com/zufang/33432372161211x.shtml"], "price": ["2400"], "roomType": ["1室1厅1卫   25 平  "]}
+{"name": ["整租 | 249平 四居 双卧南 面宽16米 南北大阳台 因出"], "url": ["http://bj.58.com/zufang/33388367193012x.shtml"], "price": ["30000"], "roomType": ["4室2厅2卫   249 平  精装修"]}
+{"name": ["整租 | 新上房源 可月付免押金 南沙滩小区精装大二居室随时看"], "url": ["http://bj.58.com/zufang/33373589668156x.shtml"], "price": ["6600"], "roomType": ["2室1厅1卫   60 平  精装修"]}
+{"name": ["整租 | 金色时光 精装修 南北通透独立两居 看房方便 拎包入"], "url": ["http://bj.58.com/zufang/33410060338126x.shtml"], "price": ["2100"], "roomType": ["2室1厅1卫   70 平  精装修"]}
+{"name": ["整租 | 纳丹堡 1室1厅1卫"], "url": ["http://bj.58.com/zufang/33429522783428x.shtml"], "price": ["1450"], "roomType": ["1室1厅1卫   62 平  精装修"]}
+{"name": ["整租 | 传媒大学北门 聚福苑精装两居 家电齐全 随时看房"], "url": ["http://bj.58.com/zufang/33219080726337x.shtml"], "price": ["6000"], "roomType": ["2室1厅1卫   86 平  精装修"]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 全装全配 阳光100 东南两居室 首 次 出 租"], "url": ["http://bj.58.com/zufang/33379289554749x.shtml"], "price": ["13500"], "roomType": ["2室2厅2卫   134 平  精装修"]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["单间 | 角门东里小区 3室1厅1卫 男女不限"], "url": ["http://bj.58.com/hezu/33431065403189x.shtml"], "price": ["2100"], "roomType": ["3室1厅1卫   15 平  "]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["单间 | 位于小鲁店丰和园物流对面 门口有348公交"], "url": ["http://bj.58.com/hezu/33221979945656x.shtml"], "price": ["800"], "roomType": ["1室1厅1卫   15 平  "]}
+{"name": ["单间 | 京泉馨苑东里 3室1厅1卫 男女不限"], "url": ["http://bj.58.com/hezu/33392576717885x.shtml"], "price": ["2300"], "roomType": ["3室1厅1卫   30 平  "]}
+{"name": ["整租 | 世华泊郡 南北三居室 全新装修家装齐全 看房有钥匙"], "url": ["http://bj.58.com/zufang/33417666923949x.shtml"], "price": ["12000"], "roomType": ["3室2厅2卫   122 平  豪华装修"]}
+{"name": ["整租 | 半步桥街13号院 2室1厅1卫"], "url": ["http://bj.58.com/zufang/33432334561596x.shtml"], "price": ["6800"], "roomType": ["2室1厅1卫   78 平  "]}
+{"name": ["整租 | 望京北整租一居 1室1厅1卫"], "url": ["http://bj.58.com/zufang/33330120803895x.shtml"], "price": ["3350"], "roomType": ["1室1厅1卫   30 平  "]}
+{"name": ["单间 | (单间出租)直租 华业东方玫瑰 物业齐全 宽带保洁"], "url": ["http://bj.58.com/hezu/33422708815174x.shtml"], "price": ["1800"], "roomType": ["3室1厅1卫   20 平  精装修"]}
+{"name": ["单间 | 西坝河东里 北欧风精装 房租月付"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfohsPY609iTZYQFI8Gt_uunMf-5NvxKrSq3rbk08vcZHL5BsW5tE1rw2XsRAzN8j1ifrakUwR4CmCczjJDa95EumbQFBJxIZMOWqkseFL67-t3RaKjcjYRkC5s_Hx813wFBTTjgcOV46CgKQ0eYVkaR_GGRNvaJU8Ex5ZnLS85up4l5A6UFjXZ2KtzPhO3qjriASnSS6YOGac4RZ_YLyaeJw&local=1&pubid=28789450&apptype=0&psid=111660113199385535268988489&entinfo=33367092672450_0&cookie=|||c5/njVqrh SGbwECA2KdAg==&fzbref=0&key=&params=busitime^desc"], "price": ["1669"], "roomType": ["3室1厅1卫   16 平  精装修"]}
+{"name": ["单间 | 北京青年城 蛋壳公寓直租 南北向采光好集中供暖"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfobprTZkEYZ5Hq-OrgCJ0qfcf-5NvxKrSqqoT6YJcfczRCifwu0uJ2Bu2z8ihUE6YhKdZAO0qFI9gzFiHUSeI88GbQFBJxIZMOWqkseFL67-t3RaKjcjYRkJqc93_yzaJaxE7vOY4xbGWgKQ0eYVkaR_GGRNvaJU8EW5ozdKUN2csl5A6UFjXZ2KtzPhO3qjriASnSS6YOGac4RZ_YLyaeJw&local=1&pubid=28344974&apptype=0&psid=111660113199385535268988489&entinfo=33320948449855_0&cookie=|||c5/njVqrh SGbwECA2KdAg==&fzbref=0&key=&params=busitime^desc"], "price": ["3180"], "roomType": ["3室1厅1卫   25 平  精装修"]}
+{"name": ["单间 | 北四环安慧桥东奥体东门安苑北里西南主卧室带阳台"], "url": ["http://bj.58.com/hezu/33396186515906x.shtml"], "price": ["3400"], "roomType": ["3室1厅1卫   18 平  豪华装修"]}
+{"name": ["单间 | 朝阳区金盏乡皮村 村中间公寓出租"], "url": ["http://bj.58.com/hezu/33357820648380x.shtml"], "price": ["900"], "roomType": ["1室1厅1卫   20 平  "]}
+{"name": ["单间 | 通州物资学院路天赐良园北区 3室1厅 主卧 朝北 精"], "url": ["http://bj.58.com/hezu/33432326567849x.shtml"], "price": ["1990"], "roomType": ["3室1厅1卫   15 平  精装修"]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 南法信地铁，东亚精装修，采光特别好。家电家具全，好房"], "url": ["http://bj.58.com/zufang/32799518449229x.shtml"], "price": ["2700"], "roomType": ["1室1厅1卫   45 平  精装修"]}
+{"name": ["整租 | 10号线车道沟站 车道沟南里 兵器大厦 北洼西里 精"], "url": ["http://bj.58.com/zufang/33296600359849x.shtml"], "price": ["5300"], "roomType": ["2室1厅1卫   65 平  精装修"]}
+{"name": ["整租 | 双井 富力城 温馨舒适 全新南向两居"], "url": ["http://bj.58.com/zufang/33418714800063x.shtml"], "price": ["11500"], "roomType": ["2室2厅2卫   110 平  豪华装修"]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 燕郊鼎盛家园二期 1室1厅1卫"], "url": ["http://bj.58.com/zufang/26119893920958x.shtml"], "price": ["1400"], "roomType": ["1室1厅1卫   51 平  "]}
+{"name": ["整租 | 大栅栏西街 铁树斜街 精装一居 能洗澡做饭 虎坊桥"], "url": ["http://bj.58.com/zufang/33389260562605x.shtml"], "price": ["4200"], "roomType": ["1室1厅0卫   35 平  精装修"]}
+{"name": ["整租 | 金融街 南礼士路 儿童医院 月坛南街 舒适一居室 真"], "url": ["http://bj.58.com/zufang/33431979822250x.shtml"], "price": ["5800"], "roomType": ["1室1厅1卫   50 平  简单装修"]}
+{"name": ["整租 | 石门营A4 2室1厅1卫"], "url": ["http://bj.58.com/zufang/33432291946806x.shtml"], "price": ["3600"], "roomType": ["2室1厅1卫   65 平  "]}
+{"name": ["单间 | 紫南家园北区 蛋壳公寓直租 随时看房 年底特惠"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoFU1DGiyHzPNCXq4lvQQD-cf-5NvxKrSqlS-MBNRFwxUaMusMSXPdUaxNoCb90wzuvue9yXd9_P2B1qeGhVNXfa_kLogGs8t9VBSrVSSHR9_yuB7_weK1VuuAeXdH8f8-gvoPunFUTrhIJ057leLrdqDMybbOabIFiuklzQ0jvg-bNwISF9Pru0jay6G8-dMQahgcXFJ2x3TsS4cfIsOJwVouVjHO1K_2&local=1&pubid=28415102&apptype=0&psid=105039392199385536677954509&entinfo=33332259662149_0&cookie=|||c5/njVqrh SGbwECA2KdAg==&fzbref=0&key=&params=busitime^desc"], "price": ["2670"], "roomType": ["3室1厅1卫   25 平  精装修"]}
+{"name": ["单间 | 精装修 永铁苑 押一付一 采光贼好 包宽带"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfodrD7ANFjGphMtBm3n46ibsf-5NvxKrSqOS0GiY1Ose4QnT1PrPtr9IQQ7WdQBbOrTO3UjHVNWxcfbwbqPJ8OVmbQFBJxIZMOWqkseFL67-t3RaKjcjYRkJgaZ6G-jsa7QBIORiv6ypWgKQ0eYVkaR_GGRNvaJU8E_ZWWYjNlVqol5A6UFjXZ2KtzPhO3qjriASnSS6YOGacSiwmvhbhHDw&local=1&pubid=28773859&apptype=0&psid=105039392199385536677954509&entinfo=33020966273860_0&cookie=|||c5/njVqrh SGbwECA2KdAg==&fzbref=0&key=&params=busitime^desc"], "price": ["1620"], "roomType": ["3室1厅1卫   18 平  精装修"]}
+{"name": ["整租 | 通州北关 财富东方 精装大两居 底价出租 有需要随时"], "url": ["http://bj.58.com/zufang/33386782236233x.shtml"], "price": ["4500"], "roomType": ["2室1厅1卫   101 平  精装修"]}
+{"name": ["单间 | 亦庄线文化园地铁林肯公园力宝广场康复医院东晶国际18"], "url": ["http://bj.58.com/hezu/33340851045189x.shtml"], "price": ["1800"], "roomType": ["3室2厅2卫   28 平  精装修"]}
+{"name": ["整租 | 光华路 光华欣居 中央电视台 精装两居 环境好 交通"], "url": ["http://bj.58.com/zufang/33362548661417x.shtml"], "price": ["6300"], "roomType": ["2室1厅1卫   70 平  精装修"]}
+{"name": ["整租 | 丰台 地铁10号线 角门东里小区 紧邻银泰百货 精装"], "url": ["http://bj.58.com/zufang/33201167121086x.shtml"], "price": ["4600"], "roomType": ["2室1厅1卫   65 平  精装修"]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["单间 | 芍药居北区 3室1厅1卫 男女不限"], "url": ["http://bj.58.com/hezu/33432289505993x.shtml"], "price": ["2600"], "roomType": ["3室1厅1卫   30 平  "]}
+{"name": ["整租 | 通州乔庄艺苑东街精装正规两居室 临近菜商场 学校 超"], "url": ["http://bj.58.com/zufang/33398945293136x.shtml"], "price": ["3500"], "roomType": ["2室1厅1卫   54 平  精装修"]}
+{"name": ["整租 | 万达广场 1室0厅1卫"], "url": ["http://bj.58.com/zufang/33202407531341x.shtml"], "price": ["1700"], "roomType": ["1室0厅1卫   30 平  精装修"]}
+{"name": ["整租 | 朝阳区北苑辛店村武警北京指挥学院内 2室1厅1卫"], "url": ["http://bj.58.com/zufang/29669876082878x.shtml"], "price": ["5800"], "roomType": ["2室1厅1卫   55 平  简单装修"]}
+{"name": ["单间 | 主卧独卫独浴 中关村五道口学院路二里庄附近清华大学旁"], "url": ["http://bj.58.com/hezu/33298269543612x.shtml"], "price": ["1750"], "roomType": ["3室2厅2卫   40 平  "]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 福成五期，豪华装修,拎包入住,回家就是一种度假。"], "url": ["http://bj.58.com/zufang/33340654474179x.shtml"], "price": ["1700"], "roomType": ["2室1厅1卫   84 平  精装修"]}
+{"name": ["整租 | 朝阳东坝 机场二高 空房 一居室 3300 有空调"], "url": ["http://bj.58.com/zufang/33297941129131x.shtml"], "price": ["3300"], "roomType": ["1室1厅1卫   56 平  简单装修"]}
+{"name": ["整租 | 酒仙桥.将台路.稀有户型"], "url": ["http://bj.58.com/zufang/32865268736324x.shtml"], "price": ["16000"], "roomType": ["4室2厅2卫   192 平  精装修"]}
+{"name": ["整租 | 苏活 loft 二居室 家具家电齐全 看房子随时"], "url": ["http://bj.58.com/zufang/33333480001867x.shtml"], "price": ["4000"], "roomType": ["2室1厅1卫   55 平  简单装修"]}
+{"name": ["单间 | 通州通州北苑京贸国际公寓 3室1厅 主卧 朝西 精装"], "url": ["http://bj.58.com/hezu/33385957446855x.shtml"], "price": ["2300"], "roomType": ["3室1厅1卫   35 平  精装修"]}
+{"name": ["单间 | 传媒大学 珠江绿洲 朝南次卧"], "url": ["http://bj.58.com/hezu/33292033030202x.shtml"], "price": ["2200"], "roomType": ["3室2厅2卫   18 平  "]}
+{"name": ["单间 | 魏公村 民大 理工 北外 口腔医院 韦伯豪家园 小单"], "url": ["http://bj.58.com/hezu/33340768911281x.shtml"], "price": ["1800"], "roomType": ["3室2厅2卫   12 平  精装修"]}
+{"name": ["整租 | 红旗公寓 1室0厅1卫"], "url": ["http://bj.58.com/zufang/32890574836810x.shtml"], "price": ["1600"], "roomType": ["1室0厅1卫   30 平  精装修"]}
+{"name": ["整租 | 朝阳公园 棕榈泉国际公寓1室2厅2卫 可短租 月付"], "url": ["http://bj.58.com/zufang/32491195023025x.shtml"], "price": ["18000"], "roomType": ["1室2厅2卫   123 平  豪华装修"]}
+{"name": ["单间 | 宏福苑 4室1厅 次卧 免物业取暖"], "url": ["http://bj.58.com/hezu/27485786957622x.shtml"], "price": ["1000"], "roomType": ["4室1厅2卫   20 平  "]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 精装 三里河 月坛 南礼士路 复兴门 水科院 茂林居"], "url": ["http://bj.58.com/zufang/33423530594359x.shtml"], "price": ["5500"], "roomType": ["1室1厅1卫   42 平  简单装修"]}
+{"name": ["整租 | 兴华嘉园 大一室 带装修 拎包入住 急租 先到先得"], "url": ["http://bj.58.com/zufang/33367421841601x.shtml"], "price": ["3100"], "roomType": ["1室1厅1卫   50 平  精装修"]}
+{"name": ["整租 | 署前街家园80.23平米，1室1厅1卫."], "url": ["http://bj.58.com/zufang/33428330950072x.shtml"], "price": ["2600"], "roomType": ["2室1厅1卫   80 平  精装修"]}
+{"name": ["整租 | 远洋二期：中间层 南北四居 前后观花园 半空房出租"], "url": ["http://bj.58.com/zufang/33399635982911x.shtml"], "price": ["26000"], "roomType": ["4室2厅3卫   180 平  毛坯"]}
+{"name": ["整租 | 通州北苑地铁站旁边好房整租。房子是别人的生活是自己的"], "url": ["http://bj.58.com/zufang/33297752582578x.shtml"], "price": ["5500"], "roomType": ["2室1厅1卫   91 平  简单装修"]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 土桥 金隅自由筑 温馨舒适两居室 交通便利地段繁华"], "url": ["http://bj.58.com/zufang/32444584760272x.shtml"], "price": ["3300"], "roomType": ["2室1厅1卫   68 平  精装修"]}
+{"name": ["单间 | 转租 角门甲14号院 全新家电 0中介费 房租可月付"], "url": ["http://bj.58.com/hezu/33023877751362x.shtml"], "price": ["2116"], "roomType": ["3室1厅1卫   26 平  精装修"]}
+{"name": ["整租 | 芍药居地铁10号13线超值精装大两居室"], "url": ["http://bj.58.com/zufang/33285065572426x.shtml"], "price": ["7500"], "roomType": ["2室1厅1卫   100 平  精装修"]}
+{"name": ["单间 | 月付 朝阳园 集中供暖 包宽带维修 0中介"], "url": ["http://bj.58.com/hezu/33254760986950x.shtml"], "price": ["3213"], "roomType": ["3室1厅1卫   26 平  精装修"]}
+{"name": ["整租 | 5800 两居室 安苑里 仅此一套便宜房 看房随时"], "url": ["http://bj.58.com/zufang/33318860904011x.shtml"], "price": ["5800"], "roomType": ["2室1厅1卫   60 平  精装修"]}
+{"name": ["单间 | 华贸公寓 蛋壳公寓直租 贴心管家服务 拒绝黑中介"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoYa_1sRTYIk0vtEIkATnR58f-5NvxKrSqfw8SxWCrnzZXNhcER-5zae-oCHGx8GHtKdZAO0qFI9iL5EgZP_B2z2bQFBJxIZMOWqkseFL67-t3RaKjcjYRkPpdif4yPd-NmWmLGEqwIWGgKQ0eYVkaR_GGRNvaJU8EoqHyhLoGV64l5A6UFjXZ2KtzPhO3qjriASnSS6YOGaeamPlrwgl3jA&local=1&pubid=28353873&apptype=0&psid=137226773199385539931072806&entinfo=33321529295566_0&cookie=|||c5/njVqrh SGbwECA2KdAg==&fzbref=0&key=&params=busitime^desc"], "price": ["3300"], "roomType": ["3室1厅1卫   27 平  精装修"]}
+{"name": ["单间 | 月付 南彩河北村小区 智能电子锁 特价转租"], "url": ["http://jxjump.58.com/service?target=FCADVFdVGJSbUnkf2ayqH_E_R9RLX94M3jVfoVmL75nRbjcd3FQG4eYiFvcf-5NvxKrSq3rbk08vcZHL3W83uuiB6Du2z8ihUE6Yhi4MuTfxmXbyIGN6zNSdEia_kLogGs8t9VBSrVSSHR9_yuB7_weK1VqeozEvPwnjqjnAB0rQWGpxIJ057leLrdqDMybbOabIF_74EBRn6tAebNwISF9Pru0jay6G8-dMQahgcXFJ2x3SKdFKCeO7r21ouVjHO1K_2&local=1&pubid=28787157&apptype=0&psid=137226773199385539931072806&entinfo=33366629589822_0&cookie=|||c5/njVqrh SGbwECA2KdAg==&fzbref=0&key=&params=busitime^desc"], "price": ["1820"], "roomType": ["3室1厅1卫   25 平  精装修"]}
+{"name": ["单间 | 昌平沙河沙阳路 保利罗谷 德胜门 西直门 碧水庄园"], "url": ["http://bj.58.com/hezu/33422267210285x.shtml"], "price": ["1580"], "roomType": ["3室1厅1卫   32 平  精装修"]}
+{"name": ["单间 | 兴怀大街小区 3室1厅1卫 限女生 交通便利"], "url": ["http://bj.58.com/hezu/33309760565421x.shtml"], "price": ["1100"], "roomType": ["3室1厅1卫   10 平  "]}
+{"name": ["整租 | 蓝海苑精装修房 家电齐全，随时入住，3室！"], "url": ["http://bj.58.com/zufang/33357271336518x.shtml"], "price": ["7500"], "roomType": ["3室2厅2卫   164 平  精装修"]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": ["整租 | 性价比超高 国贸富力城商圈 双井劲松十号线 垂杨柳"], "url": ["http://bj.58.com/zufang/33385537054508x.shtml"], "price": ["4500"], "roomType": ["2室1厅1卫   72 平  精装修"]}
+{"name": ["整租 | 电梯房：住户素质高 新社区出行方便，周围配套齐全"], "url": ["http://bj.58.com/zufang/32798550338621x.shtml"], "price": ["2000"], "roomType": ["3室2厅2卫   120 平  精装修"]}
+{"name": ["单间 | 风雅园一区精装朝阳次卧"], "url": ["http://bj.58.com/hezu/33310674284112x.shtml"], "price": ["2100"], "roomType": ["3室1厅1卫   25 平  "]}
+{"name": ["单间 | 转租 六里屯西里 维修 双周保洁 不用中介费"], "url": ["http://bj.58.com/hezu/33365638957769x.shtml"], "price": ["2641"], "roomType": ["3室1厅1卫   27 平  精装修"]}
+{"name": ["整租 | 阜成路95号院 2室1厅1卫"], "url": ["http://bj.58.com/zufang/33432176946113x.shtml"], "price": ["6800"], "roomType": ["2室1厅1卫   79 平  "]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
+{"name": [""], "url": [""], "price": [""], "roomType": [""]}
