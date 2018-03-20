@@ -31,7 +31,7 @@ class City58TestSpider(scrapy.Spider):
             yield scrapy.Request(response.urljoin(next_url), callback=self.parse, dont_filter=True)
 
     def chilren_parse(self, response):
-        # time.sleep(1)
+        time.sleep(1)
         xp = Selector(response)
         item = response.meta['item']
         item['roomType'] = xp.xpath(
